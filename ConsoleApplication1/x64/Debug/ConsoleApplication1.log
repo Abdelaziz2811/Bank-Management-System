@@ -1,0 +1,41 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(44,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(301,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(340,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsString.h(403,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsDate.h(1024,14): warning C4091: 'static ': ignored on left of 'clsDate::enCompareDates' when no variable is declared
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsDate.h(1003,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsUtil.h(23,14): warning C4091: 'static ': ignored on left of 'clsUtil::enCharType' when no variable is declared
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsUser.h(194,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'ConsoleApplication1.cpp')
+      C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsUser.h(142,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(209,9): warning C4240: nonstandard extension used: access to 'clsClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'ConsoleApplication1.cpp')
+      C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(159,9):
+      see declaration of 'clsClient::stTransferLog'
+  
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsTotalBalancesScreen.h(55,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(340,1): warning C4715: 'clsClient::Save': not all control paths return a value
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsUtil.h(214,1): warning C4715: 'clsUtil::NumberToText': not all control paths return a value
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsUser.h(336,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrency.h(167,1): warning C4715: 'clsCurrency::FindByCode': not all control paths return a value
+C:\Users\Abdelaziz\source\repos\ConsoleApplication1\ConsoleApplication1\clsCurrency.h(193,1): warning C4715: 'clsCurrency::FindByCountry': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\Abdelaziz\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
